@@ -13,7 +13,7 @@ SELECT * FROM PD_2023_02;
 --Remove dashes from Sort Code
 
 UPDATE PD_2023_02
-SET SORT_CODE = REGEXP_REPLACE(SORT_CODE, '-', '');
+SET SORT_CODE = REPLACE(SORT_CODE, '-', '');
 
 --Bring in additional info from lookup table
 

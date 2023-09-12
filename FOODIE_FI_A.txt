@@ -1,0 +1,8 @@
+Customer 1: had a trial for a week in August, then started a basic monthly plan
+Customer 2: had a trial for a week in September, then got a pro annual subscription
+Customer 11: had a trial for a week in November, and cancelled their service at the end of that trial period
+Customer 13: had a trial for a week in December, then started a basic monthly plan.  Three months later they upgraded to a pro monthly plan.
+Customer 15: had a trial for a week in March, then started a pro monthly plan.  After just over a month, they cancelled their service.
+Customer 16: had a trial for a week from the end of May, then began a basic monthly plan in June. After just over four months, they upgraded to a pro annual plan.
+Customer 18: had a trial for a week in July, then started a pro monthly plan
+Customer 19: had a trial for a week in June, then started a pro monthly plan.  After two months, they upgraded to a pro annual plan.
